@@ -14,4 +14,4 @@
 ![ReziDevs](https://a.top4top.io/p_1699k4dgg1.png)
 
 ### ⛔️ DONT REMOVE ALL CREDITS . CONTACT ME ON : Rezistenza#9229.
-## !~ Feel Free To Contribute :)
+- Feel Free To Contribute :)
