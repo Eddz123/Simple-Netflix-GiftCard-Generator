@@ -4,10 +4,11 @@
 - My Project Name is : Simple Netflix GiftCard Generator 🧐
 
 ### ⭐️ Features :
-- Fast Codes Generator
-- Save Files "Codes.txt"
-- Low Cpu usage & Easy to use
-- Generate up to 1M Codes in 1 min.
-- Easy to code .
+- [Fast] Codes Generator
+- Save Files ["Codes.txt"].
+- [Low] Cpu usage & [Easy] to use
+- Generate up to [1M Codes] in 1 min.
+
+
 
 ### ⛔️ DONT REMOVE ALL CREDITS . CONTACT ME ON : Rezistenza#9229.
